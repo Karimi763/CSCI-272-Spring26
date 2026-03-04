@@ -1,0 +1,42 @@
+/*
+Name: Karim Ibrahim 
+Course: CSCI 272 
+Lesson Number: Lesson 4 
+Code Topic: Copy Constructor Example
+Reflection:
+
+1) What I understood:
+
+I understood that Class is the blueprint for making objects,
+it contains data members which stores data thats part of an object,
+for example brand, model, year and it also contains member functions which 
+is a function thats declared inside a Class and works on objects of that Class
+for example startEngine()
+Objects are things you can build using a Class(blueprint). They have the class’s
+data members and functions, but even though objects come from the same class,
+each object is separate foe example(Car car1,Car car2).
+A class by itself doesn’t use memory until you create an object from it.
+Car(class), car1(object of class)
+
+2) Difficulties:
+
+some difficlties I experinced was understanding the difference between dot and
+pointers(I know what a pointer is and what it does) and when/why they are used in terms of objects and classes
+if I remember correctly for pointers was to point to the function in the object and the dot to return 
+not coding related but I had difficlties managing my time because I need more time to properly practice and understand better
+I did not realize that I needed to include Encapsulation so I tried my best
+
+
+3) Research/4) AI usage:
+
+I put these 2 together because I used them for the same purpose regarding this assignment
+for reasearch I watched a couple youtube videos, from tech by ralph to help me understand
+pointers used in oop a bit better and understand how class and objects much better(one cant work without the other)
+I also read an artical from the Meduim called "Inside C++ Classes and Objects — How They Really Work" to try to understand better
+and I used ChatGPT to help break down parts that I did not understand from reading to make it easier to understand/make sense
+
+5) What I learned:
+
+I learned how to design a simple class and how to create ojects from it
+destructors are needed for better memory utlization
+how constructor control how an object starts
